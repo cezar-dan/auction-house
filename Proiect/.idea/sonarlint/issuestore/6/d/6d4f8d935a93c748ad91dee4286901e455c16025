@@ -1,0 +1,12 @@
+
+@
+java:S1068"*Remove this unused "adresa" private field.(î×é“
+`
+java:S1192-"JDefine a constant instead of duplicating this literal "Clientul " 4 times.(ÜåÚ
+M	java:S106+"9Replace this use of System.out or System.err by a logger.(¶‰ˆ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(šÎñ™
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Øåƒµûÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÜåÚ
+A
+java:S1068"&Remove this unused "id" private field.(ÎÂ’„ÿÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(¥°ğÚşÿÿÿÿ

@@ -1,0 +1,16 @@
+
+N	java:S106="9Replace this use of System.out or System.err by a logger.(©ÅåÇ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(í©¨úÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(Àšá
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(®«‘êÿÿÿÿÿ
+<
+java:S1068
+"&Remove this unused "id" private field.(Ø•öÊ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(½È¡Òøÿÿÿÿ
+?
+java:S2140
+")Use "java.util.Random.nextInt()" instead.(Ø•öÊ
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(°•Ş

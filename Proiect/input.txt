@@ -1,0 +1,24 @@
+tablou,16278,Mona Lisa,18000.00,1430,Da Vinki,ulei
+mobila,19356,masa,180.15,2015,modern,sticla
+bijuterie,20324,cercei,220.99,2019,abanos,da
+tablou,15167,Starry Night,13300.87,1889,Vincent van Gogh,ulei
+mobila,59215,scaun,100.25,2017,art nouveau,lemn
+bijuterie,42561,bratara,315.12,2021,aur,nu
+tablou,16271,Strigatul,10000.55,1893,Rembrandt,acrilic
+mobila,50201,dulap,290.79,2014,industrial,lemn
+bijuterie,31056,lantisor,215.20,2021,aur alb,da
+tablou,75195,Autoportret,220.50,2015,Dora,tempera
+mobila,10626,masuta cafea,295.10,2019,industrial,metal
+bijuterie,58017,inel,199.35,2013,argint,nu
+tablou,20618,Fata Cu Turban,31200.50,1632,Vermeer,acrilic
+mobila,69215,scaun,260.06,2012,clasic,lemn
+bijuterie,12345,cercei,399.70,2010,aur alb,da
+tablou,54321,Peisaj,430.10,2014,Dorian Popa,tempera
+mobila,98765,masa,180.60,2013,baroc,lemn
+bijuterie,56789,inel,280.50,2020,carbon,nu
+tablou,76453,Gradina,320.30,2009,Logan Paul,tempera
+mobila,34567,dulap,285.10,2018,clasic,pal
+bijuterie,19682,bratara,141.30,2020,otel,nu
+tablou,85192,Brofist,499.20,1948,Pewdiepie,acrilic
+mobila,88125,etajera,310.15,2012,industrial,inox
+bijuterie,11525,inel,240.80,2005,carbon,da

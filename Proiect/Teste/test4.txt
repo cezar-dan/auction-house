@@ -1,0 +1,1556 @@
+/home/cezar/.jdks/openjdk-15-1/bin/java -javaagent:/snap/intellij-idea-community/273/lib/idea_rt.jar=41829:/snap/intellij-idea-community/273/bin -Dfile.encoding=UTF-8 -classpath /home/cezar/IdeaProjects/Proiect/out/production/Proiect simulare.Main
+Administratorul a adaugat produsul: Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Administratorul a adaugat produsul: Mobila {tip='baroc', material='lemn', id=98765, nume='masa', pretMinim=180.60, an=2013}
+Administratorul a adaugat produsul: Mobila {tip='modern', material='sticla', id=19356, nume='masa', pretMinim=180.15, an=2015}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Elvis solicita o licitatie pentru produsul Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Dave Hester vizualizeaza produsul: Mobila {tip='modern', material='sticla', id=19356, nume='masa', pretMinim=180.15, an=2015}
+Clientul Dave Hester solicita o licitatie pentru produsul Mobila {tip='modern', material='sticla', id=19356, nume='masa', pretMinim=180.15, an=2015}
+Clientul Darrell Sheets vizualizeaza produsul: Mobila {tip='baroc', material='lemn', id=98765, nume='masa', pretMinim=180.60, an=2013}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Mobila {tip='baroc', material='lemn', id=98765, nume='masa', pretMinim=180.60, an=2013}
+Administratorul a adaugat produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Jarrod Schulz vizualizeaza produsul: Mobila {tip='modern', material='sticla', id=19356, nume='masa', pretMinim=180.15, an=2015}
+Administratorul a adaugat produsul: Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Mobila {tip='modern', material='sticla', id=19356, nume='masa', pretMinim=180.15, an=2015}
+Administratorul a adaugat produsul: Mobila {tip='industrial', material='metal', id=10626, nume='masuta cafea', pretMinim=295.10, an=2019}
+
+INCEPE LICITATIA pentru produsul Mobila {tip='modern', material='sticla', id=19356, nume='masa', pretMinim=180.15, an=2015}
+
+La aceasta licitatie participa:
+
+Dave Hester, cu bugetul de: 227.22786775669852
+Jarrod Schulz, cu bugetul de: 532.4421303272898
+
+
+RUNDA 1
+Clientul Dave Hester ofera: 21.518163496289844
+Clientul Jarrod Schulz ofera: 1.3184149017861166
+
+RUNDA 2
+Clientul Dave Hester ofera: 44.87376239852056
+Clientul Jarrod Schulz ofera: 65.77901090737535
+
+RUNDA 3
+Clientul Dave Hester ofera: 90.42856522532034
+Clientul Jarrod Schulz ofera: 181.48874276177565
+
+RUNDA 4
+Clientul Dave Hester ofera: 215.9739478759031
+Clientul Jarrod Schulz ofera: 265.7006796432857
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Jarrod Schulz, care a oferit 265.7006796432857
+
+Brokerul Marshall, a primit un comision de tip C1, in valoare de: 53.140135928657145
+Brokerul Marshall, a sters produsul: Mobila {tip='modern', material='sticla', id=19356, nume='masa', pretMinim=180.15, an=2015}
+Clientul Gorillaz vizualizeaza produsul: Mobila {tip='baroc', material='lemn', id=98765, nume='masa', pretMinim=180.60, an=2013}
+Clientul Gorillaz solicita o licitatie pentru produsul Mobila {tip='baroc', material='lemn', id=98765, nume='masa', pretMinim=180.60, an=2013}
+Administratorul a adaugat produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+
+INCEPE LICITATIA pentru produsul Mobila {tip='baroc', material='lemn', id=98765, nume='masa', pretMinim=180.60, an=2013}
+
+La aceasta licitatie participa:
+
+Darrell Sheets, cu bugetul de: 521.0278877388422
+Gorillaz, cu bugetul de: 213.49608841298388
+
+
+RUNDA 1
+Clientul Darrell Sheets ofera: 57.422923962209545
+Clientul Gorillaz ofera: 24.7759581390406
+
+RUNDA 2
+Clientul Darrell Sheets ofera: 117.82228587769099
+Clientul Gorillaz ofera: 67.87806674680004
+
+RUNDA 3
+Clientul Darrell Sheets ofera: 185.1160742614789
+Clientul Gorillaz ofera: 145.9027170188635
+
+RUNDA 4
+Clientul Darrell Sheets ofera: 191.4545650032415
+Clientul Gorillaz ofera: 213.49608841298388
+
+RUNDA 5
+Clientul Darrell Sheets ofera: 232.64356592220378
+Clientul Gorillaz ofera: 213.49608841298388
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Darrell Sheets, care a oferit 232.64356592220378
+
+Brokerul Jean, a primit un comision de tip C1, in valoare de: 46.52871318444076
+Brokerul Jean, a sters produsul: Mobila {tip='baroc', material='lemn', id=98765, nume='masa', pretMinim=180.60, an=2013}
+Administratorul a adaugat produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+Clientul Ikea solicita o licitatie pentru produsul Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+Clientul Dedeman vizualizeaza produsul: Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Dedeman solicita o licitatie pentru produsul Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Elvis vizualizeaza produsul: Mobila {tip='industrial', material='metal', id=10626, nume='masuta cafea', pretMinim=295.10, an=2019}
+Clientul Elvis solicita o licitatie pentru produsul Mobila {tip='industrial', material='metal', id=10626, nume='masuta cafea', pretMinim=295.10, an=2019}
+Clientul Dave Hester vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Dave Hester solicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+Clientul Jarrod Schulz vizualizeaza produsul: Mobila {tip='industrial', material='metal', id=10626, nume='masuta cafea', pretMinim=295.10, an=2019}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Mobila {tip='industrial', material='metal', id=10626, nume='masuta cafea', pretMinim=295.10, an=2019}
+
+INCEPE LICITATIA pentru produsul Mobila {tip='industrial', material='metal', id=10626, nume='masuta cafea', pretMinim=295.10, an=2019}
+
+La aceasta licitatie participa:
+
+Elvis, cu bugetul de: 846.0281245205899
+Jarrod Schulz, cu bugetul de: 804.1191423422613
+
+
+RUNDA 1
+Clientul Elvis ofera: 98.84679963903696
+Clientul Jarrod Schulz ofera: 118.9365337827782
+
+RUNDA 2
+Clientul Elvis ofera: 319.06898838566065
+Clientul Jarrod Schulz ofera: 215.6727577437221
+
+RUNDA 3
+Clientul Elvis ofera: 406.6932877704416
+Clientul Jarrod Schulz ofera: 331.43531343120964
+
+RUNDA 4
+Clientul Elvis ofera: 511.24469764141406
+Clientul Jarrod Schulz ofera: 477.6365913705572
+
+RUNDA 5
+Clientul Elvis ofera: 634.2782204513466
+Clientul Jarrod Schulz ofera: 592.4838776009818
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Elvis, care a oferit 634.2782204513466
+
+Brokerul Andi, a primit un comision de tip C1, in valoare de: 126.85564409026932
+Brokerul Andi, a sters produsul: Mobila {tip='industrial', material='metal', id=10626, nume='masuta cafea', pretMinim=295.10, an=2019}
+Clientul Gorillaz vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Gorillaz solicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Ikea solicita o licitatie pentru produsul Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Dedeman vizualizeaza produsul: Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Administratorul a adaugat produsul: Tablou {numePictor='Vincent van Gogh', culori=ulei, id=15167, nume='Starry Night', pretMinim=13300.87, an=1889}
+Clientul Dedeman resolicita o licitatie pentru produsul Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Elvis resolicita o licitatie pentru produsul Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Dave Hester vizualizeaza produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Dave Hester solicita o licitatie pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+Clientul Darrell Sheets resolicita o licitatie pentru produsul Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+
+La aceasta licitatie participa:
+
+Elvis, cu bugetul de: 46893.40885938609
+Dedeman, cu bugetul de: 43900.08251304705
+Ikea, cu bugetul de: 49397.8234272142
+Jarrod Schulz, cu bugetul de: 25381.510346884133
+
+
+RUNDA 1
+Clientul Elvis ofera: 4640.335612077421
+Clientul Dedeman ofera: 4084.6141572222555
+Clientul Ikea ofera: 1077.9603036544547
+Clientul Jarrod Schulz ofera: 879.2254170296894
+
+RUNDA 2
+Clientul Elvis ofera: 11344.826608853025
+Clientul Dedeman ofera: 14234.824004039798
+Clientul Ikea ofera: 9537.88603294492
+Clientul Jarrod Schulz ofera: 8163.109937142397
+
+RUNDA 3
+Clientul Elvis ofera: 20588.07981284396
+Clientul Dedeman ofera: 20732.765371259702
+Clientul Ikea ofera: 15344.981406893854
+Clientul Jarrod Schulz ofera: 16970.88922512121
+
+RUNDA 4
+Clientul Elvis ofera: 27572.97454848817
+Clientul Dedeman ofera: 27941.02292073091
+Clientul Ikea ofera: 23275.928746210204
+Clientul Jarrod Schulz ofera: 20785.263116258007
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dedeman, care a oferit 27941.02292073091
+
+Brokerul Andi, a primit un comision de tip C3, in valoare de: 6985.255730182727
+Brokerul Andi, a sters produsul: Tablou {numePictor='Da Vinki', culori=ulei, id=16278, nume='Mona Lisa', pretMinim=18000.00, an=1430}
+Clientul Gorillaz vizualizeaza produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Gorillaz solicita o licitatie pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Administratorul a adaugat produsul: Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Ikea solicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dedeman vizualizeaza produsul: Tablou {numePictor='Vincent van Gogh', culori=ulei, id=15167, nume='Starry Night', pretMinim=13300.87, an=1889}
+Clientul Dedeman solicita o licitatie pentru produsul Tablou {numePictor='Vincent van Gogh', culori=ulei, id=15167, nume='Starry Night', pretMinim=13300.87, an=1889}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Vincent van Gogh', culori=ulei, id=15167, nume='Starry Night', pretMinim=13300.87, an=1889}
+Clientul Elvis solicita o licitatie pentru produsul Tablou {numePictor='Vincent van Gogh', culori=ulei, id=15167, nume='Starry Night', pretMinim=13300.87, an=1889}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Vincent van Gogh', culori=ulei, id=15167, nume='Starry Night', pretMinim=13300.87, an=1889}
+
+La aceasta licitatie participa:
+
+Dedeman, cu bugetul de: 24642.16382924753
+Elvis, cu bugetul de: 27636.985412073594
+
+
+RUNDA 1
+Clientul Dedeman ofera: 3959.182016201591
+Clientul Elvis ofera: 7414.02362796031
+
+RUNDA 2
+Clientul Dedeman ofera: 7687.84431048858
+Clientul Elvis ofera: 8823.887075588722
+
+RUNDA 3
+Clientul Dedeman ofera: 9251.799291894913
+Clientul Elvis ofera: 11625.026076995386
+
+RUNDA 4
+Clientul Dedeman ofera: 14373.580434330024
+Clientul Elvis ofera: 13475.953560975748
+
+RUNDA 5
+Clientul Dedeman ofera: 14633.10257245839
+Clientul Elvis ofera: 16915.689855383436
+
+RUNDA 6
+Clientul Dedeman ofera: 20479.687697649497
+Clientul Elvis ofera: 17127.45161442654
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dedeman, care a oferit 20479.687697649497
+
+Brokerul Marshall, a primit un comision de tip C3, in valoare de: 5119.921924412374
+Brokerul Marshall, a sters produsul: Tablou {numePictor='Vincent van Gogh', culori=ulei, id=15167, nume='Starry Night', pretMinim=13300.87, an=1889}
+Clientul Dave Hester vizualizeaza produsul: Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+Administratorul a adaugat produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Dave Hester solicita o licitatie pentru produsul Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+
+La aceasta licitatie participa:
+
+Ikea, cu bugetul de: 23240.041437915646
+Darrell Sheets, cu bugetul de: 21636.081705063447
+Dave Hester, cu bugetul de: 27104.917070319283
+
+
+RUNDA 1
+Clientul Ikea ofera: 809.5659020068529
+Clientul Darrell Sheets ofera: 3462.5539683753786
+Clientul Dave Hester ofera: 6511.460506072521
+
+RUNDA 2
+Clientul Ikea ofera: 6622.379379594426
+Clientul Darrell Sheets ofera: 8406.319697842158
+Clientul Dave Hester ofera: 9884.247705561651
+
+RUNDA 3
+Clientul Ikea ofera: 10051.820229407156
+Clientul Darrell Sheets ofera: 11070.042779680136
+Clientul Dave Hester ofera: 12209.833698274142
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dave Hester, care a oferit 12209.833698274142
+
+Brokerul Andi, a primit un comision de tip C1, in valoare de: 2441.9667396548284
+Brokerul Andi, a sters produsul: Tablou {numePictor='Rembrandt', culori=acrilic, id=16271, nume='Strigatul', pretMinim=10000.55, an=1893}
+Clientul Darrell Sheets vizualizeaza produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Administratorul a adaugat produsul: Bijuterie {material='otel', piatraPretioasa=false, id=19682, nume='bratara', pretMinim=141.30, an=2020}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+
+INCEPE LICITATIA pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+
+La aceasta licitatie participa:
+
+Dave Hester, cu bugetul de: 346.32087730102
+Gorillaz, cu bugetul de: 257.43790720953905
+Darrell Sheets, cu bugetul de: 205.06131518337602
+
+
+RUNDA 1
+Clientul Dave Hester ofera: 75.26297459373167
+Clientul Gorillaz ofera: 4.959088007060401
+Clientul Darrell Sheets ofera: 35.26274762443414
+
+RUNDA 2
+Clientul Dave Hester ofera: 107.70259072544138
+Clientul Gorillaz ofera: 98.91136666871623
+Clientul Darrell Sheets ofera: 79.58758035819758
+
+RUNDA 3
+Clientul Dave Hester ofera: 145.88005325492225
+Clientul Gorillaz ofera: 157.58816083753646
+Clientul Darrell Sheets ofera: 148.21975399836856
+
+LICITATIA S-A TERMINAT
+
+Pragul minim nu a fost atins, produsul este pastrat pentru o licitatie viitoare
+
+Clientul Jarrod Schulz vizualizeaza produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Gorillaz vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Gorillaz solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Ikea resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dedeman vizualizeaza produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Dedeman solicita o licitatie pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Elvis solicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Dave Hester vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Dave Hester resolicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Gorillaz vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Gorillaz resolicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Ikea resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dedeman vizualizeaza produsul: Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Dedeman solicita o licitatie pentru produsul Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Elvis solicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dave Hester vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Dave Hester solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Darrell Sheets resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Gorillaz vizualizeaza produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Gorillaz solicita o licitatie pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Ikea vizualizeaza produsul: Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Ikea solicita o licitatie pentru produsul Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Dedeman vizualizeaza produsul: Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Dedeman resolicita o licitatie pentru produsul Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Elvis solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Dave Hester vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dave Hester solicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Darrell Sheets vizualizeaza produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Jarrod Schulz vizualizeaza produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Jarrod Schulz resolicita o licitatie pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Gorillaz vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Gorillaz resolicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Ikea vizualizeaza produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Ikea solicita o licitatie pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+
+INCEPE LICITATIA pentru produsul Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+
+La aceasta licitatie participa:
+
+Jarrod Schulz, cu bugetul de: 534.8634123394845
+Dedeman, cu bugetul de: 400.69656263683606
+Gorillaz, cu bugetul de: 219.54100198947012
+Darrell Sheets, cu bugetul de: 380.44364982214785
+Ikea, cu bugetul de: 509.3471711592997
+
+
+RUNDA 1
+Clientul Jarrod Schulz ofera: 93.32412742768393
+Clientul Ikea ofera: 53.57387252098906
+Clientul Dedeman ofera: 1.8580774724400542
+Clientul Darrell Sheets ofera: 57.50895676629238
+Clientul Gorillaz ofera: 1.8128592774685397
+
+RUNDA 2
+Clientul Jarrod Schulz ofera: 162.97987983471046
+Clientul Ikea ofera: 131.69868892756932
+Clientul Dedeman ofera: 128.00427198838472
+Clientul Darrell Sheets ofera: 139.75570535093755
+Clientul Gorillaz ofera: 98.97927483289376
+
+RUNDA 3
+Clientul Jarrod Schulz ofera: 210.1954999165731
+Clientul Ikea ofera: 195.3383470497477
+Clientul Dedeman ofera: 178.5525610917208
+Clientul Darrell Sheets ofera: 175.93979185345577
+Clientul Gorillaz ofera: 196.71147667919394
+
+RUNDA 4
+Clientul Jarrod Schulz ofera: 316.18592270760917
+Clientul Ikea ofera: 269.4557294737376
+Clientul Dedeman ofera: 275.01092503291943
+Clientul Darrell Sheets ofera: 249.78167079210118
+Clientul Gorillaz ofera: 219.54100198947012
+
+RUNDA 5
+Clientul Jarrod Schulz ofera: 327.89317791565327
+Clientul Ikea ofera: 323.6042682305275
+Clientul Dedeman ofera: 330.93875282713356
+Clientul Darrell Sheets ofera: 334.45493387727305
+Clientul Gorillaz ofera: 219.54100198947012
+
+RUNDA 6
+Clientul Jarrod Schulz ofera: 383.5276313064299
+Clientul Ikea ofera: 397.2649213650819
+Clientul Dedeman ofera: 400.69656263683606
+Clientul Darrell Sheets ofera: 338.11414399163783
+Clientul Gorillaz ofera: 219.54100198947012
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dedeman, care a oferit 400.69656263683606
+
+Brokerul Marshall, a primit un comision de tip C3, in valoare de: 100.17414065920902
+Brokerul Marshall, a sters produsul: Bijuterie {material='argint', piatraPretioasa=false, id=58017, nume='inel', pretMinim=199.35, an=2013}
+Clientul Dedeman vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Dedeman solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+
+La aceasta licitatie participa:
+
+Gorillaz, cu bugetul de: 1391.376546237156
+Dave Hester, cu bugetul de: 906.3342982676295
+Administratorul a adaugat produsul: Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+Jarrod Schulz, cu bugetul de: 814.9917234150904
+Elvis, cu bugetul de: 598.3298198546744
+Dedeman, cu bugetul de: 715.2828411788608
+
+
+RUNDA 1
+Clientul Gorillaz ofera: 51.45896219871688
+Clientul Dave Hester ofera: 40.889712303984105
+Clientul Jarrod Schulz ofera: 9.52882843623953
+Clientul Dedeman ofera: 30.187492000683754
+Clientul Elvis ofera: 60.99343963439428
+
+RUNDA 2
+Clientul Gorillaz ofera: 149.3883154515372
+Clientul Dave Hester ofera: 83.68927919793036
+Clientul Jarrod Schulz ofera: 75.68761632860824
+Clientul Dedeman ofera: 214.23171987190733
+Clientul Elvis ofera: 83.52366137200859
+
+RUNDA 3
+Clientul Gorillaz ofera: 273.71068658326305
+Clientul Dave Hester ofera: 336.7976395330705
+Clientul Jarrod Schulz ofera: 306.82812195284464
+Clientul Dedeman ofera: 299.64636351381927
+Clientul Elvis ofera: 311.36144563965286
+
+LICITATIA S-A TERMINAT
+
+Pragul minim nu a fost atins, produsul este pastrat pentru o licitatie viitoare
+
+Clientul Elvis vizualizeaza produsul: Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Elvis solicita o licitatie pentru produsul Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Dave Hester vizualizeaza produsul: Bijuterie {material='otel', piatraPretioasa=false, id=19682, nume='bratara', pretMinim=141.30, an=2020}
+Clientul Dave Hester solicita o licitatie pentru produsul Bijuterie {material='otel', piatraPretioasa=false, id=19682, nume='bratara', pretMinim=141.30, an=2020}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Jarrod Schulz resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Gorillaz vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Gorillaz solicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Ikea resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dedeman vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Dedeman solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Elvis solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Dave Hester vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Dave Hester resolicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Darrell Sheets vizualizeaza produsul: Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Gorillaz vizualizeaza produsul: Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Clientul Gorillaz solicita o licitatie pentru produsul Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+
+INCEPE LICITATIA pentru produsul Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+
+La aceasta licitatie participa:
+
+Dedeman, cu bugetul de: 770.3043693302568
+Ikea, cu bugetul de: 387.63305376762423
+Elvis, cu bugetul de: 835.6932483402095
+Darrell Sheets, cu bugetul de: 581.0086990762964
+Gorillaz, cu bugetul de: 452.9403744207095
+
+
+RUNDA 1
+Clientul Dedeman ofera: 189.53974477811778
+Clientul Elvis ofera: 66.49729294030602
+Clientul Ikea ofera: 25.219568577694176
+Clientul Darrell Sheets ofera: 16.381222481069333
+Clientul Gorillaz ofera: 1.045956478370835
+
+RUNDA 2
+Clientul Dedeman ofera: 258.7430531918662
+Clientul Elvis ofera: 237.95714312351643
+Clientul Ikea ofera: 242.30706229435788
+Clientul Darrell Sheets ofera: 227.112994008672
+Clientul Gorillaz ofera: 210.94776861484067
+
+RUNDA 3
+Clientul Dedeman ofera: 331.94860015419636
+Clientul Elvis ofera: 462.25344084199037
+Clientul Ikea ofera: 262.25840947344494
+Clientul Darrell Sheets ofera: 324.4181988543532
+Clientul Gorillaz ofera: 354.05472300664746
+
+RUNDA 4
+Clientul Dedeman ofera: 681.6800692844222
+Clientul Elvis ofera: 564.546755498716
+Clientul Ikea ofera: 387.63305376762423
+Clientul Darrell Sheets ofera: 499.02218249192833
+Clientul Gorillaz ofera: 452.9403744207095
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dedeman, care a oferit 681.6800692844222
+
+Brokerul Marshall, a primit un comision de tip C3, in valoare de: 170.42001732110555
+Brokerul Marshall, a sters produsul: Mobila {tip='industrial', material='inox', id=88125, nume='etajera', pretMinim=310.15, an=2012}
+Administratorul a adaugat produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Ikea resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dedeman vizualizeaza produsul: Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+Clientul Dedeman solicita o licitatie pentru produsul Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Elvis resolicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Dave Hester vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dave Hester resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Jarrod Schulz vizualizeaza produsul: Bijuterie {material='otel', piatraPretioasa=false, id=19682, nume='bratara', pretMinim=141.30, an=2020}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Bijuterie {material='otel', piatraPretioasa=false, id=19682, nume='bratara', pretMinim=141.30, an=2020}
+Clientul Gorillaz vizualizeaza produsul: Bijuterie {material='otel', piatraPretioasa=false, id=19682, nume='bratara', pretMinim=141.30, an=2020}
+Clientul Gorillaz solicita o licitatie pentru produsul Bijuterie {material='otel', piatraPretioasa=false, id=19682, nume='bratara', pretMinim=141.30, an=2020}
+
+INCEPE LICITATIA pentru produsul Bijuterie {material='otel', piatraPretioasa=false, id=19682, nume='bratara', pretMinim=141.30, an=2020}
+
+La aceasta licitatie participa:
+
+Dave Hester, cu bugetul de: 264.3174741850996
+Jarrod Schulz, cu bugetul de: 331.7444949330993
+Gorillaz, cu bugetul de: 409.70903935685203
+
+
+RUNDA 1
+Clientul Dave Hester ofera: 7.111812866857665
+Clientul Gorillaz ofera: 42.026714458612425
+Clientul Jarrod Schulz ofera: 46.74119803223621
+
+RUNDA 2
+Clientul Dave Hester ofera: 88.77180050751855
+Clientul Gorillaz ofera: 64.66511140306724
+Clientul Jarrod Schulz ofera: 83.00193945967798
+
+RUNDA 3
+Clientul Dave Hester ofera: 98.75802482885398
+Clientul Gorillaz ofera: 171.31494653328446
+Clientul Jarrod Schulz ofera: 124.74318803857945
+
+RUNDA 4
+Clientul Dave Hester ofera: 189.90422886264105
+Clientul Gorillaz ofera: 185.60114555818805
+Clientul Jarrod Schulz ofera: 265.09199949256595
+
+RUNDA 5
+Clientul Dave Hester ofera: 264.3174741850996
+Clientul Gorillaz ofera: 274.09871349744793
+Clientul Jarrod Schulz ofera: 265.77563415378677
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Gorillaz, care a oferit 274.09871349744793
+
+Brokerul Andi, a primit un comision de tip C3, in valoare de: 68.52467837436198
+Brokerul Andi, a sters produsul: Bijuterie {material='otel', piatraPretioasa=false, id=19682, nume='bratara', pretMinim=141.30, an=2020}
+Clientul Ikea vizualizeaza produsul: Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+Administratorul a adaugat produsul: Bijuterie {material='aur', piatraPretioasa=false, id=42561, nume='bratara', pretMinim=315.12, an=2021}
+Clientul Ikea solicita o licitatie pentru produsul Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+Clientul Dedeman vizualizeaza produsul: Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+Clientul Dedeman resolicita o licitatie pentru produsul Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+Clientul Elvis vizualizeaza produsul: Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+Clientul Elvis solicita o licitatie pentru produsul Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+
+INCEPE LICITATIA pentru produsul Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+
+La aceasta licitatie participa:
+
+Dedeman, cu bugetul de: 537.9520844273208
+Ikea, cu bugetul de: 399.4712842114776
+Elvis, cu bugetul de: 586.4201723309509
+
+
+RUNDA 1
+Clientul Dedeman ofera: 52.310589151086994
+Clientul Ikea ofera: 1.3666328275212236
+Clientul Elvis ofera: 15.91298896313521
+
+RUNDA 2
+Clientul Dedeman ofera: 84.78142443556911
+Clientul Ikea ofera: 106.43950973424097
+Clientul Elvis ofera: 62.225967560105964
+
+RUNDA 3
+Clientul Dedeman ofera: 114.25314347146005
+Clientul Ikea ofera: 151.32984873452028
+Clientul Elvis ofera: 264.97504463013195
+
+RUNDA 4
+Clientul Dedeman ofera: 305.39658636503583
+Clientul Ikea ofera: 275.72949386279373
+Clientul Elvis ofera: 279.4843587542688
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dedeman, care a oferit 305.39658636503583
+
+Brokerul Jean, a primit un comision de tip C3, in valoare de: 76.34914659125896
+Brokerul Jean, a sters produsul: Mobila {tip='clasic', material='lemn', id=69215, nume='scaun', pretMinim=260.06, an=2012}
+Administratorul a adaugat produsul: Bijuterie {material='carbon', piatraPretioasa=false, id=56789, nume='inel', pretMinim=280.50, an=2020}
+Clientul Dave Hester vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Dave Hester solicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Darrell Sheets resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Gorillaz vizualizeaza produsul: Bijuterie {material='aur', piatraPretioasa=false, id=42561, nume='bratara', pretMinim=315.12, an=2021}
+Clientul Gorillaz solicita o licitatie pentru produsul Bijuterie {material='aur', piatraPretioasa=false, id=42561, nume='bratara', pretMinim=315.12, an=2021}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Ikea solicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+
+La aceasta licitatie participa:
+
+Dave Hester, cu bugetul de: 46227.47745427215
+Gorillaz, cu bugetul de: 85231.68879683923
+Elvis, cu bugetul de: 45485.86753291507
+Darrell Sheets, cu bugetul de: 59033.385393384706
+Jarrod Schulz, cu bugetul de: 74184.41645125968
+Ikea, cu bugetul de: 47487.53117658831
+
+
+RUNDA 1
+Clientul Dave Hester ofera: 9916.765444788976
+Clientul Elvis ofera: 1090.9079594401742
+Clientul Darrell Sheets ofera: 9872.585369304574
+Clientul Gorillaz ofera: 10157.287852528909
+Clientul Jarrod Schulz ofera: 624.8406738735566
+Clientul Ikea ofera: 2020.5462213350957
+
+RUNDA 2
+Clientul Dave Hester ofera: 18544.73624486421
+Clientul Elvis ofera: 15295.664865615207
+Clientul Darrell Sheets ofera: 13311.650363813565
+Clientul Gorillaz ofera: 22169.37702103139
+Clientul Jarrod Schulz ofera: 15159.068864383233
+Clientul Ikea ofera: 10643.00292798743
+
+RUNDA 3
+Clientul Dave Hester ofera: 29784.689271167143
+Clientul Elvis ofera: 29280.766763759355
+Clientul Darrell Sheets ofera: 26648.785475804107
+Clientul Gorillaz ofera: 29185.088534822837
+Clientul Jarrod Schulz ofera: 27748.737628893774
+Clientul Ikea ofera: 25607.207277171034
+
+LICITATIA S-A TERMINAT
+
+Pragul minim nu a fost atins, produsul este pastrat pentru o licitatie viitoare
+
+Clientul Dedeman vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Dedeman solicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Elvis solicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Dave Hester vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Dave Hester resolicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Jarrod Schulz vizualizeaza produsul: Bijuterie {material='aur', piatraPretioasa=false, id=42561, nume='bratara', pretMinim=315.12, an=2021}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Bijuterie {material='aur', piatraPretioasa=false, id=42561, nume='bratara', pretMinim=315.12, an=2021}
+Clientul Gorillaz vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Gorillaz solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Ikea solicita o licitatie pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+
+La aceasta licitatie participa:
+
+Darrell Sheets, cu bugetul de: 538.528551602265
+Dedeman, cu bugetul de: 1299.0532954848475
+Elvis, cu bugetul de: 940.8520689412171
+Jarrod Schulz, cu bugetul de: 588.782912678324
+Gorillaz, cu bugetul de: 990.3995975739812
+Ikea, cu bugetul de: 849.5395892180554
+
+
+RUNDA 1
+Clientul Darrell Sheets ofera: 110.83898662930861
+Clientul Dedeman ofera: 132.59592200174083
+Clientul Ikea ofera: 52.24192904291887
+Clientul Elvis ofera: 202.90537108493362
+Clientul Jarrod Schulz ofera: 34.57585337434904
+Clientul Gorillaz ofera: 9.54686167245239
+
+RUNDA 2
+Clientul Darrell Sheets ofera: 247.9146001969582
+Clientul Dedeman ofera: 355.42898657786225
+Clientul Ikea ofera: 342.302181814673
+Clientul Elvis ofera: 254.34632867313468
+Clientul Jarrod Schulz ofera: 229.62340701171718
+Clientul Gorillaz ofera: 269.7046932045034
+
+RUNDA 3
+Clientul Darrell Sheets ofera: 451.06746221368513
+Clientul Dedeman ofera: 381.74449703329145
+Clientul Ikea ofera: 505.00777206689145
+Clientul Elvis ofera: 377.10870647702217
+Clientul Jarrod Schulz ofera: 361.75883272995185
+Clientul Gorillaz ofera: 436.8002986881079
+
+RUNDA 4
+Clientul Darrell Sheets ofera: 522.6722451251944
+Clientul Dedeman ofera: 505.4733394087797
+Clientul Ikea ofera: 569.7333879081485
+Clientul Elvis ofera: 554.0668239528761
+Clientul Jarrod Schulz ofera: 540.5203676360364
+Clientul Gorillaz ofera: 671.4829034709044
+
+RUNDA 5
+Clientul Darrell Sheets ofera: 538.528551602265
+Clientul Dedeman ofera: 804.31248315178
+Clientul Ikea ofera: 767.4859240846371
+Clientul Elvis ofera: 809.0743260890445
+Clientul Jarrod Schulz ofera: 588.782912678324
+Clientul Gorillaz ofera: 788.2162434988592
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Elvis, care a oferit 809.0743260890445
+
+Brokerul Andi, a primit un comision de tip C2, in valoare de: 121.36114891335666
+Brokerul Andi, a sters produsul: Tablou {numePictor='Pewdiepie', culori=acrilic, id=85192, nume='Brofist', pretMinim=499.20, an=1948}
+Clientul Dedeman vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Administratorul a adaugat produsul: Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+Clientul Dedeman resolicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Elvis vizualizeaza produsul: Bijuterie {material='aur', piatraPretioasa=false, id=42561, nume='bratara', pretMinim=315.12, an=2021}
+Clientul Elvis solicita o licitatie pentru produsul Bijuterie {material='aur', piatraPretioasa=false, id=42561, nume='bratara', pretMinim=315.12, an=2021}
+
+INCEPE LICITATIA pentru produsul Bijuterie {material='aur', piatraPretioasa=false, id=42561, nume='bratara', pretMinim=315.12, an=2021}
+
+La aceasta licitatie participa:
+
+Gorillaz, cu bugetul de: 711.706134230636
+Jarrod Schulz, cu bugetul de: 832.406434947927
+Elvis, cu bugetul de: 559.5507716066332
+
+
+RUNDA 1
+Clientul Gorillaz ofera: 34.68811731786995
+Clientul Jarrod Schulz ofera: 46.80175940307925
+Clientul Elvis ofera: 36.160194572094895
+
+RUNDA 2
+Clientul Gorillaz ofera: 125.35060383995489
+Clientul Jarrod Schulz ofera: 131.6064920575529
+Clientul Elvis ofera: 110.20877987476891
+
+RUNDA 3
+Clientul Gorillaz ofera: 300.61941946477776
+Clientul Jarrod Schulz ofera: 233.41520687145845
+Clientul Elvis ofera: 197.47397368821777
+
+RUNDA 4
+Clientul Gorillaz ofera: 331.1674032130583
+Clientul Jarrod Schulz ofera: 351.1856961759524
+Clientul Elvis ofera: 451.7412291745104
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Elvis, care a oferit 451.7412291745104
+
+Brokerul Jean, a primit un comision de tip C2, in valoare de: 67.76118437617656
+Brokerul Jean, a sters produsul: Bijuterie {material='aur', piatraPretioasa=false, id=42561, nume='bratara', pretMinim=315.12, an=2021}
+Clientul Dave Hester vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Administratorul a adaugat produsul: Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+Clientul Dave Hester resolicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Darrell Sheets resolicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Jarrod Schulz vizualizeaza produsul: Bijuterie {material='carbon', piatraPretioasa=false, id=56789, nume='inel', pretMinim=280.50, an=2020}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Bijuterie {material='carbon', piatraPretioasa=false, id=56789, nume='inel', pretMinim=280.50, an=2020}
+Clientul Gorillaz vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Gorillaz solicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Ikea solicita o licitatie pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+
+La aceasta licitatie participa:
+
+Elvis, cu bugetul de: 74590.92993898742
+Darrell Sheets, cu bugetul de: 32858.213248348475
+Ikea, cu bugetul de: 81505.78837080636
+
+
+RUNDA 1
+Clientul Elvis ofera: 6343.803801474144
+Clientul Darrell Sheets ofera: 4582.743024995952
+Clientul Ikea ofera: 11792.439650740396
+
+RUNDA 2
+Clientul Elvis ofera: 27910.607217367364
+Clientul Darrell Sheets ofera: 15143.117830561801
+Clientul Ikea ofera: 22314.36203644525
+
+RUNDA 3
+Clientul Elvis ofera: 40038.04332266009
+Clientul Darrell Sheets ofera: 30954.704728001525
+Clientul Ikea ofera: 31241.23001372972
+
+RUNDA 4
+Clientul Elvis ofera: 47350.28216084447
+Clientul Darrell Sheets ofera: 32858.213248348475
+Clientul Ikea ofera: 47244.16012357051
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Elvis, care a oferit 47350.28216084447
+
+Brokerul Marshall, a primit un comision de tip C2, in valoare de: 7102.542324126671
+Brokerul Marshall, a sters produsul: Tablou {numePictor='Vermeer', culori=acrilic, id=20618, nume='Fata Cu Turban', pretMinim=31200.50, an=1632}
+Clientul Dedeman vizualizeaza produsul: Bijuterie {material='carbon', piatraPretioasa=false, id=56789, nume='inel', pretMinim=280.50, an=2020}
+Administratorul a adaugat produsul: Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Dedeman solicita o licitatie pentru produsul Bijuterie {material='carbon', piatraPretioasa=false, id=56789, nume='inel', pretMinim=280.50, an=2020}
+Clientul Elvis vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Elvis solicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Dave Hester vizualizeaza produsul: Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+Clientul Dave Hester solicita o licitatie pentru produsul Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+Clientul Darrell Sheets vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Jarrod Schulz resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Gorillaz vizualizeaza produsul: Bijuterie {material='carbon', piatraPretioasa=false, id=56789, nume='inel', pretMinim=280.50, an=2020}
+Clientul Gorillaz solicita o licitatie pentru produsul Bijuterie {material='carbon', piatraPretioasa=false, id=56789, nume='inel', pretMinim=280.50, an=2020}
+
+INCEPE LICITATIA pentru produsul Bijuterie {material='carbon', piatraPretioasa=false, id=56789, nume='inel', pretMinim=280.50, an=2020}
+
+La aceasta licitatie participa:
+
+Jarrod Schulz, cu bugetul de: 813.4926822879834
+Dedeman, cu bugetul de: 621.9008841221317
+Gorillaz, cu bugetul de: 441.59051236437944
+
+
+RUNDA 1
+Clientul Jarrod Schulz ofera: 103.82956243483459
+Clientul Dedeman ofera: 25.98795951317809
+Clientul Gorillaz ofera: 16.008940461689388
+
+RUNDA 2
+Clientul Jarrod Schulz ofera: 223.60770837879505
+Clientul Dedeman ofera: 142.00675066255957
+Clientul Gorillaz ofera: 124.5270528507751
+
+RUNDA 3
+Clientul Jarrod Schulz ofera: 258.274423670537
+Clientul Dedeman ofera: 284.2073383021393
+Clientul Gorillaz ofera: 294.34608226454844
+
+RUNDA 4
+Clientul Jarrod Schulz ofera: 451.44299980413166
+Clientul Dedeman ofera: 310.4235423874289
+Clientul Gorillaz ofera: 349.4234741128855
+
+RUNDA 5
+Clientul Jarrod Schulz ofera: 492.36370269661177
+Clientul Dedeman ofera: 471.5513563524791
+Clientul Gorillaz ofera: 441.59051236437944
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Jarrod Schulz, care a oferit 492.36370269661177
+
+Brokerul Marshall, a primit un comision de tip C2, in valoare de: 73.85455540449176
+Brokerul Marshall, a sters produsul: Bijuterie {material='carbon', piatraPretioasa=false, id=56789, nume='inel', pretMinim=280.50, an=2020}
+Administratorul a adaugat produsul: Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Ikea vizualizeaza produsul: Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+Clientul Ikea solicita o licitatie pentru produsul Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+Clientul Dedeman vizualizeaza produsul: Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Dedeman solicita o licitatie pentru produsul Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Elvis vizualizeaza produsul: Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+Clientul Elvis solicita o licitatie pentru produsul Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+Clientul Dave Hester vizualizeaza produsul: Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+Clientul Dave Hester resolicita o licitatie pentru produsul Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Darrell Sheets resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Jarrod Schulz resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Gorillaz vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Gorillaz resolicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Ikea vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Ikea solicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+
+INCEPE LICITATIA pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+
+La aceasta licitatie participa:
+
+Dave Hester, cu bugetul de: 479.5528531922631
+Dedeman, cu bugetul de: 366.68882931193014
+Gorillaz, cu bugetul de: 594.1115252327106
+Elvis, cu bugetul de: 519.794935275708
+Darrell Sheets, cu bugetul de: 406.0804837653712
+Ikea, cu bugetul de: 481.56255682553774
+
+
+RUNDA 1
+Clientul Dave Hester ofera: 45.0719164212102
+Clientul Gorillaz ofera: 82.54146092000806
+Clientul Dedeman ofera: 10.491065837907021
+Clientul Elvis ofera: 53.93229761624586
+Clientul Darrell Sheets ofera: 18.015514838641593
+Clientul Ikea ofera: 32.01477378315883
+
+RUNDA 2
+Clientul Dave Hester ofera: 149.27926289295777
+Clientul Gorillaz ofera: 156.69028640732682
+Clientul Dedeman ofera: 116.86820071271822
+Clientul Elvis ofera: 96.69121055822008
+Clientul Darrell Sheets ofera: 141.91830123020824
+Clientul Ikea ofera: 128.83042904351447
+
+RUNDA 3
+Clientul Dave Hester ofera: 211.71503891779759
+Clientul Gorillaz ofera: 218.97246826037255
+Clientul Dedeman ofera: 217.05681804355663
+Clientul Elvis ofera: 237.2149695462058
+Clientul Darrell Sheets ofera: 190.73405964476103
+Clientul Ikea ofera: 265.0480408041564
+
+RUNDA 4
+Clientul Dave Hester ofera: 317.93606158683264
+Clientul Gorillaz ofera: 311.8734686180213
+Clientul Dedeman ofera: 330.6135444789934
+Clientul Elvis ofera: 309.4055620734427
+Clientul Darrell Sheets ofera: 294.0848777219457
+Clientul Ikea ofera: 330.1997061017375
+
+RUNDA 5
+Clientul Dave Hester ofera: 356.0016252054099
+Clientul Gorillaz ofera: 401.34792059454526
+Clientul Dedeman ofera: 338.526694557228
+Clientul Elvis ofera: 423.8261667782425
+Clientul Darrell Sheets ofera: 339.798419707224
+Clientul Ikea ofera: 413.48270185834264
+
+RUNDA 6
+Clientul Dave Hester ofera: 473.61968624054145
+Clientul Gorillaz ofera: 480.0857297021147
+Clientul Dedeman ofera: 366.68882931193014
+Clientul Elvis ofera: 519.794935275708
+Clientul Darrell Sheets ofera: 406.0804837653712
+Clientul Ikea ofera: 475.1686818756241
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Elvis, care a oferit 519.794935275708
+
+Brokerul Marshall, a primit un comision de tip C2, in valoare de: 77.9692402913562
+Brokerul Marshall, a sters produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=31056, nume='lantisor', pretMinim=215.20, an=2021}
+Clientul Dedeman vizualizeaza produsul: Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Administratorul a adaugat produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Dedeman resolicita o licitatie pentru produsul Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Elvis vizualizeaza produsul: Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+Clientul Elvis solicita o licitatie pentru produsul Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+
+INCEPE LICITATIA pentru produsul Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+
+La aceasta licitatie participa:
+
+Dave Hester, cu bugetul de: 531.4551224180087
+Ikea, cu bugetul de: 627.1818809679166
+Elvis, cu bugetul de: 625.3461308925528
+
+
+RUNDA 1
+Clientul Dave Hester ofera: 32.422836619063396
+Clientul Ikea ofera: 36.972179313768784
+Clientul Elvis ofera: 91.62196868134602
+
+RUNDA 2
+Clientul Dave Hester ofera: 99.4661739194613
+Clientul Ikea ofera: 189.6510633486698
+Clientul Elvis ofera: 129.6405962282706
+
+RUNDA 3
+Clientul Dave Hester ofera: 201.71303504503268
+Clientul Ikea ofera: 262.2667354575527
+Clientul Elvis ofera: 209.88237571830157
+
+RUNDA 4
+Clientul Dave Hester ofera: 309.5267473170772
+Clientul Ikea ofera: 401.63147809095824
+Clientul Elvis ofera: 306.01244312603376
+
+RUNDA 5
+Clientul Dave Hester ofera: 486.91235255956457
+Clientul Ikea ofera: 485.56323433552257
+Clientul Elvis ofera: 429.89081107127873
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dave Hester, care a oferit 486.91235255956457
+
+Brokerul Marshall, a primit un comision de tip C2, in valoare de: 73.03685288393469
+Brokerul Marshall, a sters produsul: Bijuterie {material='abanos', piatraPretioasa=true, id=20324, nume='cercei', pretMinim=220.99, an=2019}
+Administratorul a adaugat produsul: Mobila {tip='industrial', material='lemn', id=50201, nume='dulap', pretMinim=290.79, an=2014}
+Clientul Dave Hester vizualizeaza produsul: Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+Clientul Dave Hester solicita o licitatie pentru produsul Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+Clientul Darrell Sheets vizualizeaza produsul: Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+Clientul Jarrod Schulz vizualizeaza produsul: Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Gorillaz vizualizeaza produsul: Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+Clientul Gorillaz solicita o licitatie pentru produsul Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+
+INCEPE LICITATIA pentru produsul Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+
+La aceasta licitatie participa:
+
+Elvis, cu bugetul de: 452.0782903221729
+Dave Hester, cu bugetul de: 555.6429681401992
+Darrell Sheets, cu bugetul de: 399.49344423392745
+Gorillaz, cu bugetul de: 522.8174505520491
+
+
+RUNDA 1
+Clientul Elvis ofera: 24.335707561062463
+Clientul Gorillaz ofera: 45.00223364925783
+Clientul Dave Hester ofera: 36.49534112339601
+Clientul Darrell Sheets ofera: 30.408409599368856
+
+RUNDA 2
+Clientul Elvis ofera: 59.48144978249165
+Clientul Gorillaz ofera: 115.38538066613886
+Clientul Dave Hester ofera: 92.78386949849619
+Clientul Darrell Sheets ofera: 72.35848749564565
+
+RUNDA 3
+Clientul Elvis ofera: 159.97194952200877
+Clientul Gorillaz ofera: 184.27822001718823
+Clientul Dave Hester ofera: 141.3903216046895
+Clientul Darrell Sheets ofera: 177.00910377361578
+
+RUNDA 4
+Clientul Elvis ofera: 249.58672840904455
+Clientul Gorillaz ofera: 261.81284798534057
+Clientul Dave Hester ofera: 209.6161986747494
+Clientul Darrell Sheets ofera: 220.74181117570157
+
+RUNDA 5
+Clientul Elvis ofera: 285.8365189130036
+Clientul Gorillaz ofera: 300.07598044887135
+Clientul Dave Hester ofera: 400.4036926147668
+Clientul Darrell Sheets ofera: 311.0988895173746
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dave Hester, care a oferit 400.4036926147668
+
+Brokerul Andi, a primit un comision de tip C2, in valoare de: 60.06055389221501
+Brokerul Andi, a sters produsul: Mobila {tip='clasic', material='pal', id=34567, nume='dulap', pretMinim=285.10, an=2018}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Administratorul a adaugat produsul: Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Ikea solicita o licitatie pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Dedeman vizualizeaza produsul: Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Dedeman solicita o licitatie pentru produsul Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Elvis solicita o licitatie pentru produsul Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+
+La aceasta licitatie participa:
+
+Dedeman, cu bugetul de: 910.7218286789023
+Elvis, cu bugetul de: 666.2120431356411
+
+
+RUNDA 1
+Clientul Dedeman ofera: 158.5426678850116
+Clientul Elvis ofera: 68.84886216519979
+
+RUNDA 2
+Clientul Dedeman ofera: 255.2323789748129
+Clientul Elvis ofera: 252.9611680425685
+
+RUNDA 3
+Clientul Dedeman ofera: 356.6000781343437
+Clientul Elvis ofera: 333.91570512181335
+
+RUNDA 4
+Clientul Dedeman ofera: 403.62435693189235
+Clientul Elvis ofera: 369.8099971686886
+
+LICITATIA S-A TERMINAT
+
+Pragul minim nu a fost atins, produsul este pastrat pentru o licitatie viitoare
+
+Clientul Dave Hester vizualizeaza produsul: Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Dave Hester solicita o licitatie pentru produsul Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Darrell Sheets resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Gorillaz vizualizeaza produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Gorillaz solicita o licitatie pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+
+La aceasta licitatie participa:
+
+Ikea, cu bugetul de: 655.9890544186534
+Gorillaz, cu bugetul de: 362.19046364037416
+
+
+RUNDA 1
+Clientul Ikea ofera: 8.029684324734058
+Clientul Gorillaz ofera: 65.57815295496339
+
+RUNDA 2
+Clientul Ikea ofera: 143.76310887027483
+Clientul Gorillaz ofera: 104.67216331486505
+
+RUNDA 3
+Clientul Ikea ofera: 216.99608602857217
+Clientul Gorillaz ofera: 184.3195583025277
+
+LICITATIA S-A TERMINAT
+
+Pragul minim nu a fost atins, produsul este pastrat pentru o licitatie viitoare
+
+Clientul Ikea vizualizeaza produsul: Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Ikea solicita o licitatie pentru produsul Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Dedeman vizualizeaza produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Dedeman solicita o licitatie pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Elvis vizualizeaza produsul: Mobila {tip='industrial', material='lemn', id=50201, nume='dulap', pretMinim=290.79, an=2014}
+Clientul Elvis solicita o licitatie pentru produsul Mobila {tip='industrial', material='lemn', id=50201, nume='dulap', pretMinim=290.79, an=2014}
+Clientul Dave Hester vizualizeaza produsul: Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Dave Hester solicita o licitatie pentru produsul Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Gorillaz vizualizeaza produsul: Mobila {tip='industrial', material='lemn', id=50201, nume='dulap', pretMinim=290.79, an=2014}
+Clientul Gorillaz solicita o licitatie pentru produsul Mobila {tip='industrial', material='lemn', id=50201, nume='dulap', pretMinim=290.79, an=2014}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Ikea solicita o licitatie pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+
+La aceasta licitatie participa:
+
+Dedeman, cu bugetul de: 429.07408560111617
+Jarrod Schulz, cu bugetul de: 404.40557014654945
+Ikea, cu bugetul de: 364.3077717783611
+
+
+RUNDA 1
+Clientul Dedeman ofera: 50.026963658152454
+Clientul Jarrod Schulz ofera: 16.69988755910614
+Clientul Ikea ofera: 8.098000315321046
+
+RUNDA 2
+Clientul Dedeman ofera: 74.71793347370712
+Clientul Jarrod Schulz ofera: 75.04097931778819
+Clientul Ikea ofera: 103.6982978462714
+
+RUNDA 3
+Clientul Dedeman ofera: 139.63451125333233
+Clientul Jarrod Schulz ofera: 156.1524784322692
+Clientul Ikea ofera: 108.51975811577573
+
+LICITATIA S-A TERMINAT
+
+Pragul minim nu a fost atins, produsul este pastrat pentru o licitatie viitoare
+
+Clientul Dedeman vizualizeaza produsul: Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Dedeman resolicita o licitatie pentru produsul Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Elvis resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dave Hester vizualizeaza produsul: Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Dave Hester resolicita o licitatie pentru produsul Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Darrell Sheets vizualizeaza produsul: Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+
+INCEPE LICITATIA pentru produsul Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+
+La aceasta licitatie participa:
+
+Jarrod Schulz, cu bugetul de: 210.00357735801168
+Dedeman, cu bugetul de: 172.1867744474899
+Dave Hester, cu bugetul de: 295.7932811146728
+Ikea, cu bugetul de: 198.82973588732608
+Darrell Sheets, cu bugetul de: 202.32956123338954
+
+
+RUNDA 1
+Clientul Jarrod Schulz ofera: 10.22502860037369
+Clientul Dedeman ofera: 0.16786649448882954
+Clientul Dave Hester ofera: 30.38512060817778
+Clientul Ikea ofera: 22.709578934598646
+Clientul Darrell Sheets ofera: 23.68837431116961
+
+RUNDA 2
+Clientul Jarrod Schulz ofera: 47.80642614379948
+Clientul Dedeman ofera: 65.92688272268667
+Clientul Dave Hester ofera: 41.55246835031699
+Clientul Ikea ofera: 62.15002140536504
+Clientul Darrell Sheets ofera: 31.949524184649462
+
+RUNDA 3
+Clientul Jarrod Schulz ofera: 108.19404125180736
+Clientul Dedeman ofera: 67.85068254798747
+Clientul Dave Hester ofera: 114.7856722592654
+Clientul Ikea ofera: 77.33293043057381
+Clientul Darrell Sheets ofera: 87.44292542070255
+
+RUNDA 4
+Clientul Jarrod Schulz ofera: 140.1584945534382
+Clientul Dedeman ofera: 118.91023897432794
+Clientul Dave Hester ofera: 183.34108936072735
+Clientul Ikea ofera: 147.36577834976538
+Clientul Darrell Sheets ofera: 137.6719782456715
+
+RUNDA 5
+Clientul Jarrod Schulz ofera: 202.2652793408626
+Clientul Dedeman ofera: 172.1867744474899
+Clientul Dave Hester ofera: 183.96987293342653
+Clientul Ikea ofera: 198.82973588732608
+Clientul Darrell Sheets ofera: 183.51869288843193
+
+RUNDA 6
+Clientul Jarrod Schulz ofera: 210.00357735801168
+Clientul Dedeman ofera: 172.1867744474899
+Clientul Dave Hester ofera: 234.39649858695262
+Clientul Ikea ofera: 198.82973588732608
+Clientul Darrell Sheets ofera: 202.32956123338954
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dave Hester, care a oferit 234.39649858695262
+
+Brokerul Andi, a primit un comision de tip C2, in valoare de: 35.15947478804289
+Brokerul Andi, a sters produsul: Mobila {tip='art nouveau', material='lemn', id=59215, nume='scaun', pretMinim=100.25, an=2017}
+Clientul Jarrod Schulz vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Administratorul a adaugat produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+Clientul Jarrod Schulz resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Gorillaz vizualizeaza produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Gorillaz solicita o licitatie pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Ikea vizualizeaza produsul: Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Ikea solicita o licitatie pentru produsul Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+
+La aceasta licitatie participa:
+
+Jarrod Schulz, cu bugetul de: 705.9926569500587
+Dave Hester, cu bugetul de: 838.3711042900495
+Darrell Sheets, cu bugetul de: 844.455105568605
+Ikea, cu bugetul de: 785.4223220920504
+
+
+RUNDA 1
+Clientul Jarrod Schulz ofera: 83.16785919726684
+Clientul Dave Hester ofera: 164.12747431189257
+Clientul Darrell Sheets ofera: 25.3980912213474
+Clientul Ikea ofera: 157.3417292988005
+
+RUNDA 2
+Clientul Jarrod Schulz ofera: 220.7928549873131
+Clientul Dave Hester ofera: 284.00487338430673
+Clientul Darrell Sheets ofera: 246.29494414652092
+Clientul Ikea ofera: 412.47349120213795
+
+RUNDA 3
+Clientul Jarrod Schulz ofera: 544.0334770157161
+Clientul Dave Hester ofera: 434.54844311249565
+Clientul Darrell Sheets ofera: 464.6648524217933
+Clientul Ikea ofera: 590.8428499180634
+
+RUNDA 4
+Clientul Jarrod Schulz ofera: 637.3887093811345
+Clientul Dave Hester ofera: 812.8132276094302
+Clientul Darrell Sheets ofera: 647.3087710838408
+Clientul Ikea ofera: 657.6617764047613
+
+RUNDA 5
+Clientul Jarrod Schulz ofera: 705.9926569500587
+Clientul Dave Hester ofera: 823.4068216591206
+Clientul Darrell Sheets ofera: 825.042934361205
+Clientul Ikea ofera: 785.4223220920504
+
+RUNDA 6
+Clientul Jarrod Schulz ofera: 705.9926569500587
+Clientul Dave Hester ofera: 838.3711042900495
+Clientul Darrell Sheets ofera: 844.455105568605
+Clientul Ikea ofera: 785.4223220920504
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Darrell Sheets, care a oferit 844.455105568605
+
+Brokerul Marshall, a primit un comision de tip C2, in valoare de: 126.66826583529074
+Brokerul Marshall, a sters produsul: Tablou {numePictor='Dorian Popa', culori=tempera, id=54321, nume='Peisaj', pretMinim=430.10, an=2014}
+Clientul Dedeman vizualizeaza produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Dedeman solicita o licitatie pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Elvis vizualizeaza produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Elvis solicita o licitatie pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Dave Hester vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dave Hester resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Darrell Sheets resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Jarrod Schulz vizualizeaza produsul: Mobila {tip='industrial', material='lemn', id=50201, nume='dulap', pretMinim=290.79, an=2014}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Mobila {tip='industrial', material='lemn', id=50201, nume='dulap', pretMinim=290.79, an=2014}
+
+INCEPE LICITATIA pentru produsul Mobila {tip='industrial', material='lemn', id=50201, nume='dulap', pretMinim=290.79, an=2014}
+
+La aceasta licitatie participa:
+
+Elvis, cu bugetul de: 474.49406947802004
+Gorillaz, cu bugetul de: 834.4618762799475
+Jarrod Schulz, cu bugetul de: 715.9845696452697
+
+
+RUNDA 1
+Clientul Elvis ofera: 59.88888773020228
+Clientul Gorillaz ofera: 42.367609800026294
+Clientul Jarrod Schulz ofera: 102.21810300793146
+
+RUNDA 2
+Clientul Elvis ofera: 155.56602780055852
+Clientul Gorillaz ofera: 121.40685297458253
+Clientul Jarrod Schulz ofera: 185.2522256882312
+
+RUNDA 3
+Clientul Elvis ofera: 214.91349934952308
+Clientul Gorillaz ofera: 254.01576173920043
+Clientul Jarrod Schulz ofera: 229.03308090873873
+
+RUNDA 4
+Clientul Elvis ofera: 279.2625505860814
+Clientul Gorillaz ofera: 276.75540589976225
+Clientul Jarrod Schulz ofera: 431.9209545065107
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Jarrod Schulz, care a oferit 431.9209545065107
+
+Brokerul Marshall, a primit un comision de tip C2, in valoare de: 64.7881431759766
+Brokerul Marshall, a sters produsul: Mobila {tip='industrial', material='lemn', id=50201, nume='dulap', pretMinim=290.79, an=2014}
+Clientul Gorillaz vizualizeaza produsul: Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Gorillaz solicita o licitatie pentru produsul Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Ikea vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+Clientul Ikea solicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+Clientul Dedeman vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+Clientul Dedeman solicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+Clientul Elvis vizualizeaza produsul: Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Elvis solicita o licitatie pentru produsul Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Dave Hester vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dave Hester resolicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Darrell Sheets vizualizeaza produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+
+La aceasta licitatie participa:
+
+Gorillaz, cu bugetul de: 254.78080372108673
+Dedeman, cu bugetul de: 530.0690593935147
+Elvis, cu bugetul de: 252.91505830995152
+Darrell Sheets, cu bugetul de: 341.4402131230342
+
+
+RUNDA 1
+Clientul Gorillaz ofera: 31.51781866466709
+Clientul Dedeman ofera: 53.81936231191088
+Clientul Darrell Sheets ofera: 42.46205087987227
+Clientul Elvis ofera: 50.82043734761124
+
+RUNDA 2
+Clientul Gorillaz ofera: 72.34830045761194
+Clientul Dedeman ofera: 157.88934129285002
+Clientul Darrell Sheets ofera: 80.03650203895822
+Clientul Elvis ofera: 90.72861908586408
+
+RUNDA 3
+Clientul Gorillaz ofera: 200.10362956242142
+Clientul Dedeman ofera: 223.83222169268788
+Clientul Darrell Sheets ofera: 178.43763205530098
+Clientul Elvis ofera: 202.21249969847076
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dedeman, care a oferit 223.83222169268788
+
+Brokerul Marshall, a primit un comision de tip C3, in valoare de: 55.95805542317197
+Brokerul Marshall, a sters produsul: Tablou {numePictor='Dora', culori=tempera, id=75195, nume='Autoportret', pretMinim=220.50, an=2015}
+Clientul Jarrod Schulz vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+Clientul Jarrod Schulz solicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+Clientul Gorillaz vizualizeaza produsul: Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Gorillaz resolicita o licitatie pentru produsul Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Ikea vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+Clientul Ikea resolicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+Clientul Dedeman vizualizeaza produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Dedeman solicita o licitatie pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+
+INCEPE LICITATIA pentru produsul Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+
+La aceasta licitatie participa:
+
+Ikea, cu bugetul de: 373.7761354955422
+Darrell Sheets, cu bugetul de: 578.4123084474868
+Jarrod Schulz, cu bugetul de: 393.6346344139046
+Elvis, cu bugetul de: 861.8620970610644
+Dave Hester, cu bugetul de: 451.01880415693427
+Gorillaz, cu bugetul de: 556.1698294801881
+Dedeman, cu bugetul de: 947.191765071822
+
+
+RUNDA 1
+Clientul Ikea ofera: 25.901380857440913
+Clientul Jarrod Schulz ofera: 12.560351359957819
+Clientul Dedeman ofera: 129.45863558989544
+Clientul Darrell Sheets ofera: 11.961765203875155
+Clientul Gorillaz ofera: 47.68305546891521
+Clientul Elvis ofera: 131.19485206375555
+Clientul Dave Hester ofera: 48.33301120007928
+
+RUNDA 2
+Clientul Ikea ofera: 194.76331438922736
+Clientul Jarrod Schulz ofera: 154.92583518243927
+Clientul Dedeman ofera: 219.06149094324104
+Clientul Darrell Sheets ofera: 150.1463932035902
+Clientul Gorillaz ofera: 171.83514256703592
+Clientul Elvis ofera: 302.16025632931485
+Clientul Dave Hester ofera: 168.2936110090086
+
+RUNDA 3
+Clientul Ikea ofera: 324.46968985290437
+Clientul Jarrod Schulz ofera: 311.73539518415413
+Clientul Dedeman ofera: 343.09888827378865
+Clientul Darrell Sheets ofera: 312.97410055776066
+Clientul Gorillaz ofera: 333.72243536588815
+Clientul Elvis ofera: 506.25627830436963
+Clientul Dave Hester ofera: 348.09389684946524
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Elvis, care a oferit 506.25627830436963
+
+Brokerul Jean, a primit un comision de tip C2, in valoare de: 75.93844174565544
+Brokerul Jean, a sters produsul: Tablou {numePictor='Logan Paul', culori=tempera, id=76453, nume='Gradina', pretMinim=320.30, an=2009}
+Clientul Elvis vizualizeaza produsul: Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Elvis resolicita o licitatie pentru produsul Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Dave Hester vizualizeaza produsul: Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Dave Hester solicita o licitatie pentru produsul Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+
+INCEPE LICITATIA pentru produsul Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+
+La aceasta licitatie participa:
+
+Gorillaz, cu bugetul de: 435.03929620269037
+Elvis, cu bugetul de: 397.7514240175541
+Dave Hester, cu bugetul de: 488.2763779750871
+
+
+RUNDA 1
+Clientul Gorillaz ofera: 43.88934219412466
+Clientul Elvis ofera: 56.85378504013482
+Clientul Dave Hester ofera: 19.401639928905613
+
+RUNDA 2
+Clientul Gorillaz ofera: 62.76350662836817
+Clientul Elvis ofera: 103.87435203006447
+Clientul Dave Hester ofera: 211.1030046746136
+
+RUNDA 3
+Clientul Gorillaz ofera: 269.41195442056596
+Clientul Elvis ofera: 228.73921003530359
+Clientul Dave Hester ofera: 233.3636602155805
+
+RUNDA 4
+Clientul Gorillaz ofera: 296.9444073998087
+Clientul Elvis ofera: 324.37772506351814
+Clientul Dave Hester ofera: 292.56131074921166
+
+RUNDA 5
+Clientul Gorillaz ofera: 345.53264087124023
+Clientul Elvis ofera: 397.7514240175541
+Clientul Dave Hester ofera: 380.14990433368604
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Elvis, care a oferit 397.7514240175541
+
+Brokerul Marshall, a primit un comision de tip C2, in valoare de: 59.66271360263311
+Brokerul Marshall, a sters produsul: Bijuterie {material='carbon', piatraPretioasa=true, id=11525, nume='inel', pretMinim=240.80, an=2005}
+Clientul Darrell Sheets vizualizeaza produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+Clientul Darrell Sheets solicita o licitatie pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+
+INCEPE LICITATIA pentru produsul Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+
+La aceasta licitatie participa:
+
+Ikea, cu bugetul de: 1145.391441671934
+Dedeman, cu bugetul de: 1139.8747653580342
+Jarrod Schulz, cu bugetul de: 490.87469739383874
+Darrell Sheets, cu bugetul de: 595.7554321823216
+
+
+RUNDA 1
+Clientul Ikea ofera: 161.27534814356778
+Clientul Dedeman ofera: 142.40559481367453
+Clientul Darrell Sheets ofera: 24.36861318278727
+Clientul Jarrod Schulz ofera: 13.307914550078625
+
+RUNDA 2
+Clientul Ikea ofera: 230.81356312913488
+Clientul Dedeman ofera: 261.1906091140421
+Clientul Darrell Sheets ofera: 238.7283673756516
+Clientul Jarrod Schulz ofera: 202.34719825010524
+
+RUNDA 3
+Clientul Ikea ofera: 403.894737605086
+Clientul Dedeman ofera: 338.50763084807386
+Clientul Darrell Sheets ofera: 319.34292631861786
+Clientul Jarrod Schulz ofera: 269.1866818737102
+
+RUNDA 4
+Clientul Ikea ofera: 510.17453862194066
+Clientul Dedeman ofera: 622.136367134157
+Clientul Darrell Sheets ofera: 421.74929846304417
+Clientul Jarrod Schulz ofera: 483.8328985692943
+
+LICITATIA S-A TERMINAT
+
+Licitatia a fost castigata de Dedeman, care a oferit 622.136367134157
+
+Brokerul Andi, a primit un comision de tip C3, in valoare de: 155.53409178353925
+Brokerul Andi, a sters produsul: Bijuterie {material='aur alb', piatraPretioasa=true, id=12345, nume='cercei', pretMinim=399.70, an=2010}
+
+Toate produsele au fost vandute!
+Casa a strans: 93856.9280468789
+
+Process finished with exit code 0
+

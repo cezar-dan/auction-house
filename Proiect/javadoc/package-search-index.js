@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"casa_licitatii"},{"l":"casa_licitatii.angajati"},{"l":"casa_licitatii.angajati.comisioane"},{"l":"casa_licitatii.clienti"},{"l":"casa_licitatii.produse"},{"l":"simulare"}];updateSearchResults();
