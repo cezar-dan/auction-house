@@ -8,8 +8,11 @@ Explicatiile referitoare la functionarea metodelor se pot gasi in JavaDoc, in se
 
 ## Multithreading
 
-  Pentru multithreading, am implementat problema Producer-Consumer. Astfel, am preluat lista sincronizata scrisa in laborator si am modificat-o astfel incat sa se potriveasca in proiect. Rolul consumatorului este preluat de catre broker, care poate sterge produse din lista de produse (si de client oarecum, acesta putand vizualiza produsele), iar rolul de producator este preluat de catre administrator care adauga produse in lista.
-  Asadar, simularea licitatiilor se desfasoare pe doua fire de executie, unul al administratorului care tot incearca sa adauge produse, iar unul al simularii in sine. Licitatiile nu pot avea loc concomitent, si de aceea am ales sa rulez tot procesul de licitatie pe un singur thread.
+  - Pentru multithreading, am implementat problema Producer-Consumer.
+  - Astfel, am preluat lista sincronizata scrisa in laborator si am modificat-o astfel incat sa se potriveasca in proiect.
+  -  Rolul consumatorului este preluat de catre broker, care poate sterge produse din lista de produse (si de client oarecum, acesta putand vizualiza produsele), iar rolul de producator este preluat de catre administrator care adauga produse in lista.
+  - Asadar, simularea licitatiilor se desfasoare pe doua fire de executie, unul al administratorului care tot incearca sa adauge produse, iar unul al simularii in sine.
+  -  Licitatiile nu pot avea loc concomitent, si de aceea am ales sa rulez tot procesul de licitatie pe un singur thread.
 
 ## Design patterns
 
