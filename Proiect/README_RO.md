@@ -45,10 +45,14 @@ Explicatiile referitoare la functionarea metodelor se pot gasi in JavaDoc, in se
 
   In dezvoltarea aplicatiei am atins toate cele 4 concepte de baza ale POO:
 
-  ### Incapsulare: campuri si metode private, datele fiind protejate.
-  ### Mostenire: exista diferite tipuri de produse/clienti/angajati concreti care mostenesc o clasa abstracta.
-  ### Abstractizare: utilizarea interfetelor si a claselor abstracte.
-  ### Polimorfism: listele de produse sau clienti contin diferite subclase ale tipurilor din listele respective (Produs -> Tablou/Mobila/Bijuterie).
+  ### Incapsulare
+  - campuri si metode private, datele fiind protejate.
+  ### Mostenire
+  - exista diferite tipuri de produse/clienti/angajati concreti care mostenesc o clasa abstracta.
+  ### Abstractizare
+  - utilizarea interfetelor si a claselor abstracte.
+  ### Polimorfism
+  - listele de produse sau clienti contin diferite subclase ale tipurilor din listele respective (Produs -> Tablou/Mobila/Bijuterie).
 
 ## Coding style
 
