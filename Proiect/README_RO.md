@@ -1,10 +1,8 @@
 # README
 
-Proiectul implementeaza simularea unei case de licitatii. Detaliile exacte referitoare la modul de functionare a proiectului se pot gasi in diagrama de stare UML atasata.
-
-## DETALII DE IMPLEMENTARE
-
-Explicatiile referitoare la functionarea metodelor se pot gasi in JavaDoc, in sectiunea urmatoare fiind prezentate doar obiectivele atinse de mine in rezolvarea proiecutlui.
+- Proiectul implementeaza simularea unei case de licitatii.
+- Detaliile exacte referitoare la modul de functionare a proiectului se pot gasi in diagrama de stare UML atasata.
+- Explicatiile referitoare la functionarea metodelor se pot gasi in JavaDoc, in sectiunea urmatoare fiind prezentate doar obiectivele atinse de mine in rezolvarea proiecutlui.
 
 ## Multithreading
 
